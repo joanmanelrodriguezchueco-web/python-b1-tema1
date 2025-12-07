@@ -59,8 +59,8 @@ def fibonacci(fibonacci_number):
 
     return b
 
-# Prueba
-# print(fibonacci(10))  # 55
+Prueba
+ print(fibonacci(10))  # 55
 
 
 # Si quieres probar tu código, descomenta las siguientes líneas y ejecuta el script 
